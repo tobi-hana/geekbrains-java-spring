@@ -16,6 +16,7 @@
       <module>lesson6</module>
       <module>lesson7</module>
       <module>lesson8</module>
+      <module>lesson9</module>
   </modules>
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
